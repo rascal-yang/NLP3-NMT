@@ -30,7 +30,7 @@
 ## 安装指南
 1. 克隆项目到本地机器
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/rascal-yang/NLP3-NMT.git
    ```
 2. 创建并激活虚拟环境（推荐）
    ```
